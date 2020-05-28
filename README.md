@@ -1,7 +1,7 @@
 # Automate Moderator Addition in HackerRank
 This [script](https://github.com/shivamacs/add-mod-hackerrank/blob/master/script/moderatorWithPuppeteer.js) is developed using [Puppeteer](https://developers.google.com/web/tools/puppeteer). For more information on **puppeteer** visit this [link](https://github.com/puppeteer/puppeteer/blob/master/docs/api.md). 
 
-Here's what the running script looks like in acton:
+Here's what the running script looks like in action:
 >![Demo](https://github.com/shivamacs/add-mod-hackerrank/blob/master/demo/demo.gif)
 <br>[See full demo](https://github.com/shivamacs/add-mod-hackerrank/blob/master/demo/hackerrank-demo.mp4)
 
